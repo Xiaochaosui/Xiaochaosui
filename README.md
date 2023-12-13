@@ -3,7 +3,5 @@
 - 🌱 I'm currently learning Python,C/C++
 -   :shipit:  CV、Motion prediction、Decesion、DeepLearning、ML(All for Auto-vehicle)
 - :writing_hand: 好记性不如烂~~笔头~~
-- 💬 毕业于武汉邮电科学研究院(硕士)
-- 💬 毕业于东北林业大学(学士)
 - 📫  How to reach me: chaosuixiao@gmail.com
 
